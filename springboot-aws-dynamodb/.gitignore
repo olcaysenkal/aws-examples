@@ -1,5 +1,4 @@
-*/.idea/*
-*/.idea/**
 */target/*
 */target/**
 springboot-aws-dynamodb.iml
+/.idea/
