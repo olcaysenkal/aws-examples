@@ -1,0 +1,6 @@
+com/springboot/controller/DynamoDbController.class
+com/springboot/DynamoDbApplication.class
+com/springboot/model/Student.class
+com/springboot/config/DynamoDbConfig.class
+com/springboot/model/Address.class
+com/springboot/repository/DynamoDbRepository.class

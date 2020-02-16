@@ -1,0 +1,6 @@
+/Users/olcaysenkal/IdeaProjects/aws-examples/springboot-aws-dynamodb/src/main/java/com/springboot/model/Address.java
+/Users/olcaysenkal/IdeaProjects/aws-examples/springboot-aws-dynamodb/src/main/java/com/springboot/model/Student.java
+/Users/olcaysenkal/IdeaProjects/aws-examples/springboot-aws-dynamodb/src/main/java/com/springboot/DynamoDbApplication.java
+/Users/olcaysenkal/IdeaProjects/aws-examples/springboot-aws-dynamodb/src/main/java/com/springboot/config/DynamoDbConfig.java
+/Users/olcaysenkal/IdeaProjects/aws-examples/springboot-aws-dynamodb/src/main/java/com/springboot/repository/DynamoDbRepository.java
+/Users/olcaysenkal/IdeaProjects/aws-examples/springboot-aws-dynamodb/src/main/java/com/springboot/controller/DynamoDbController.java
